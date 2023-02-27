@@ -49,4 +49,5 @@ Next steps
 1. Opdel hver kommando i moduler i koden
 2. Use tokio - web og async
 3. Postgresql - diesel 
+4. Sammenlign if-move i maskine for at forstå destruktur-drop
  */
